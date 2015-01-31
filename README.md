@@ -1,0 +1,2 @@
+# myown
+git config
